@@ -20,14 +20,12 @@ or return code of 201 and the response: {"firstname": "Not so clever Rob","lastn
 ## Swagger UI integration
 show the api on...
 
-```
-http://localhost:8080/camel/api-doc
-```
+[http://localhost:8080/camel/api-doc](http://localhost:8080/camel/api-doc)
+
 show Swagger UI on...
 
-```
-http://localhost:8080/swagger/index.html
-```
+[http://localhost:8080/swagger/index.html](http://localhost:8080/swagger/index.html)
+
 
 
 ## Relevant articles:
